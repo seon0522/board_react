@@ -30,5 +30,5 @@ json-server --watch src/db/post.json --port 5000
 <figure class="half">
     <img src="[http://xxx.jpg](https://user-images.githubusercontent.com/61931341/185614827-c64f3b12-ac3c-4ad9-b284-2e58831c5f2e.JPG)">
     <img src="[http://yyy.jpg](https://user-images.githubusercontent.com/61931341/185614994-a5fdf66b-83e7-42ce-a912-60e3c9f16414.JPG)">
-figure>
+</figure>
 
