@@ -1,0 +1,17 @@
+.mainBody {
+  background-color: white;
+  color: blue;
+  margin: 10px;
+  font-family: Arial;
+  text-align: center;
+}
+
+.btnStyle {
+  color: white;
+  background: teal;
+  padding: 0.375rem 0.75rem;
+  border: 1px solid teal;
+  border-radius: 0.25rem;
+  font-size: 1rem;
+  line-height: 2;
+}
