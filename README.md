@@ -26,5 +26,7 @@ json-server --watch src/db/post.json --port 5000
 - 카드 수정
 - 카드 삭제
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dd660385-7255-4e29-b1cd-e392d6ccf1c0/Untitled.png)
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/49d2d9b4-176d-4e9f-aa81-c2086a09e482/Untitled.png)
+![생성화면](https://user-images.githubusercontent.com/61931341/185614827-c64f3b12-ac3c-4ad9-b284-2e58831c5f2e.JPG)
+![메인 화면](https://user-images.githubusercontent.com/61931341/185614994-a5fdf66b-83e7-42ce-a912-60e3c9f16414.JPG)
+
+
